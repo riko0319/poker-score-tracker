@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'iconfont'; /* Project id 请替换为你自己的项目 id */
+    src:
+        url('iconfont.woff2?t=1711234567') format('woff2'),
+        url('iconfont.woff?t=1711234567') format('woff'),
+        url('iconfont.ttf?t=1711234567') format('truetype');
+}
+
+.iconfont {
+    font-family: 'iconfont' !important;
+    font-size: 32rpx;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shanchu::before {
+    content: '\e600';
+}
+
+.icon-qingkong::before {
+    content: '\e601';
+}
+
+.icon-guiwei::before {
+    content: '\e602';
+}
+
+.icon-jifen::before {
+    content: '\e603';
+}
+
+.icon-rizhi::before {
+    content: '\e604';
+}
+
+.icon-tianjia::before {
+    content: '\e605';
+}
+
+.icon-moshi1::before {
+    content: '\e606';
+}
+
+.icon-moshi2::before {
+    content: '\e607';
+}
+
+.icon-moshi3::before {
+    content: '\e608';
+}

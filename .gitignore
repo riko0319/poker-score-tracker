@@ -1,0 +1,29 @@
+# ============ 忽略编译输出 ============
+unpackage/
+dist/
+*.log
+
+# ============ 忽略开发工具配置 ============
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# ============ 忽略临时文件和缓存 ============
+*.tmp
+*.temp
+*.cache
+.hbuilderx/
+
+# ============ 忽略 Qoder 相关配置 ============
+.qoder/
+
+# ============ 忽略 node_modules（如果有） ============
+node_modules/
+
+# ============ 忽略系统文件 ============
+desktop.ini
+.Spotlight-V100
+.Trashes
