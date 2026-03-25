@@ -3,13 +3,13 @@
         {
             "path": "pages/index/index",
             "style": {
-                "navigationBarTitleText": "牌友计分小助手"
+                "navigationBarTitleText": "多人计分助手Pro"
             }
         }
     ],
     "globalStyle": {
         "navigationBarTextStyle": "black",
-        "navigationBarTitleText": "牌友计分小助手",
+        "navigationBarTitleText": "多人计分助手Pro",
         "navigationBarBackgroundColor": "#F8F8F8",
         "backgroundColor": "#F8F8F8",
         "app-plus": {

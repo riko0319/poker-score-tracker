@@ -3,7 +3,7 @@
         <!-- 顶部标题栏 -->
         <view class="nav-bar">
             <image src="/static/icon/pukepai.png" class="nav-icon" />
-            <text class="nav-title">✨ 牌友计分器 ✨</text>
+            <text class="nav-title">✨ 多人计分助手Pro ✨</text>
         </view>
 
         <!-- 使用模式选择组件 -->
